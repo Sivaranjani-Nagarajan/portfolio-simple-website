@@ -1,17 +1,24 @@
-My Portfolio Website
-This is a basic personal portfolio website built using HTML and CSS, featuring two main pages: a Home page and a Contact page. It’s a simple project to showcase basic web development skills.
+My first Portfolio Website, built using HTML and CSS!
+It’s a simple project with two main pages: a Home page and a Contact page.
 
-📄 Pages
-Home: Introduction, brief bio, and overview
+🔑 Key Features:
 
-Contact: Basic contact information or form
+✅ Home Page
+– Displays name, role, and a short introduction
+– Lists interests, a few projects, and social media links
+
+✅ Contact Page
+– Simple contact form with fields for name, email, and message
+– Includes a submit button and my social media information
 
 🛠️ Technologies Used
-HTML5
 
-CSS3 (basic styling)
+HTML
 
-📂 How to View
-You can access my portfolio website by using this [https://sivaranjani-nagarajan.github.io/portfolio-simple-website/index.html]. Feel free to explore the content.
+CSS
 
-Thank you for visiting my portfolio website !
+🔗 Project Links
+🌐 Live Website: https://sivaranjani-nagarajan.github.io/portfolio-simple-website/index.html
+📁 GitHub Repository: https://github.com/Sivaranjani-Nagarajan?tab=repositories
+
+This is my first step into web development, and I’m excited to keep learning and building more!
