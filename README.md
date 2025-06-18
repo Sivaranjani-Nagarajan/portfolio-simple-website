@@ -12,6 +12,6 @@ HTML5
 CSS3 (basic styling)
 
 📂 How to View
-You can access my portfolio website by using this [Link]. Feel free to explore the content.
+You can access my portfolio website by using this [https://sivaranjani-nagarajan.github.io/portfolio-simple-website/index.html]. Feel free to explore the content.
 
 Thank you for visiting my portfolio website !
